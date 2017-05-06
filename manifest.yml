@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: repasopc1mac
+  host: repasopc1mac
+  disk_quota: 1024M
